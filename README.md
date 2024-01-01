@@ -1,4 +1,6 @@
-# JSON Dosyası Alma ve Dosya Adını Yazdırma
+# JSON Dosyasına erişim ve Verileri Yazdırma
+
+# Kendi json verilerinizi github üzerinden kaydedip bu kodlarla çekebilirsiniz.
 
 Bu basit Python scripti, belirli bir GitHub Raw URL'sinden JSON verisi alır ve dosyanın adını yazdırır.
 
