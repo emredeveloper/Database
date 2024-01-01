@@ -1,0 +1,29 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Istanbul",
+      "country": "Turkey",
+      "temperature": 25,
+      "weather": "Partly Cloudy",
+      "humidity": 60
+    },
+    {
+      "id": 2,
+      "name": "New York",
+      "country": "United States",
+      "temperature": 22,
+      "weather": "Sunny",
+      "humidity": 50
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "country": "Japan",
+      "temperature": 28,
+      "weather": "Clear",
+      "humidity": 65
+    }
+    // Diğer şehirler
+  ]
+}
